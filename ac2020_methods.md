@@ -1,10 +1,71 @@
-Methods
-================
-PJKA
-20/11/2020
 
 # Methods
 
-## Ta da
+## Site Description
 
-And text goes here.
+  - sites located in the Northwest Territories on the taiga shield,
+    spanning from the
+    [boreal](https://www.enr.gov.nt.ca/sites/enr/files/wkss_taiga_shield-2008.pdf)
+    to [low
+    arctic](https://www.enr.gov.nt.ca/sites/enr/files/wkss_taiga_shield-2008.pdf)  
+  - permafrost extent ranges from sporadic to discontinuous at
+    Yellowknife, to continuous at Daring Lake
+
+## Field Sampling
+
+  - lakes from Yellowknife (n=23), Wekweètì(n=5) and Daring Lake (n=8)
+    sampled between June and October, 2019  
+
+  - collected \~0.25 meters from surface of lake (away from lake edges)
+
+  - field measures collected using an EXO2 Sonde (YSI Co.) \> -
+    Dissolved oxygen (DO) \> - Water temperature (ºC) \> - Electrical
+    conductivity (μS/cm) \> - pH
+
+  - samples collected using a rinsed 60mL HDPE syringe and passed
+    through a 0.45μm filter (Whatman GD/X)
+
+  - filtered samples kept cool and in the dark until analyses back at
+    the University of Waterloo (within 2-3) at the Environmental
+    Geochemistry Laboratory  
+
+  - gas samples collected unfiltered in glass serums that were capped
+    under water
+
+### Parameters Collected
+
+  - Dissolved organic carbon (DOC)  
+  - Total dissolved nitrogen (TDN)  
+  - Dissolved inorganic carbon (DIC)  
+  - Chlorophyll-*a* (Chl-a)  
+  - Total dissolved iron (Fe)
+
+DOC and TDN were measured using a Shimadzu Total Organic Carbon (TOC-L)
+Combustion Analyzer (precision on duplicates of ±0.2 mg C/L). Fe samples
+were filtered into 15 mL Celltreat® Scientific Centrifuge Tubes and
+acidified with 0.3 mL of OmniTrace Ultra® Nitric Acid (67-70%). Fe
+concentrations were analyzed using a Perkin Elmer Optima 8000 ICP-EOS.
+
+## Calculation of CO2 from DIC, pH, and water temperature
+
+Although separate samples for dissovled gases were collected, we are
+currently undergoing experiments to test the difference between
+dissolved gas determination (collection in serums) versus calculated
+methods (used here) for CO2 concentration measures. For this poster we
+used the calculated pCO2 values as these examinations are on going.
+
+For each lake, the percent-saturation of CO2 (relative to atmospheric
+CO2 at 410 ppm) was calculated using the [carbulate
+package](https://github.com/biogeochem/carbulate) in R (R Core Team,
+2020). We used in-field measures of barometric pressure and water
+temperature, with DIC concentrations measured from the lab. You can find
+the exact calculations
+[here](https://github.com/biogeochem/carbulate/blob/master/R/carbulate.R)
+(feel free to use in your own work).
+
+## Statistics
+
+Principal Component Analysis (PCA) was calculated from scaled variables
+using the `prcomp()` function in base R. PCA was plotted using
+`autoplot()` in the [*ggfortify*
+package](https://cran.r-project.org/web/packages/ggfortify/index.html).
