@@ -11,6 +11,7 @@ output: github_document
 - lakes from Yellowknife (n=23), Wekweètì(n=5) and Daring Lake (n=8) sampled between June and October, 2019  
 - collected ~0.25 meters from surface of lake (away from lake edges)  
 - field measures collected using an EXO2 Sonde (YSI Co.)  
+
 > - Dissolved oxygen (DO)  
 > - Water temperature (ºC)  
 > - Electrical conductivity (μS/cm)  

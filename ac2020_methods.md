@@ -15,20 +15,20 @@
 
   - lakes from Yellowknife (n=23), Wekweètì(n=5) and Daring Lake (n=8)
     sampled between June and October, 2019  
+  - collected \~0.25 meters from surface of lake (away from lake
+    edges)  
+  - field measures collected using an EXO2 Sonde (YSI Co.)
 
-  - collected \~0.25 meters from surface of lake (away from lake edges)
-
-  - field measures collected using an EXO2 Sonde (YSI Co.) \> -
-    Dissolved oxygen (DO) \> - Water temperature (ºC) \> - Electrical
-    conductivity (μS/cm) \> - pH
+>   - Dissolved oxygen (DO)  
+>   - Water temperature (ºC)  
+>   - Electrical conductivity (μS/cm)  
+>   - pH
 
   - samples collected using a rinsed 60mL HDPE syringe and passed
-    through a 0.45μm filter (Whatman GD/X)
-
+    through a 0.45μm filter (Whatman GD/X)  
   - filtered samples kept cool and in the dark until analyses back at
     the University of Waterloo (within 2-3) at the Environmental
     Geochemistry Laboratory  
-
   - gas samples collected unfiltered in glass serums that were capped
     under water
 

@@ -3,7 +3,7 @@
 ## Arctic Change 2020 Conference, Dec. 7 - 10
 
 ##### Authors
-[Pieter J. K. Aukes](www.pieteraukes.ca), paukes@wlu.ca,     *Wilfrid Laurier University*  
+[Pieter J. K. Aukes](https://www.pieteraukes.ca), paukes@wlu.ca,     *Wilfrid Laurier University*  
 Ryan Hutchins,     *University of Waterloo*  
 Richard J. Elgood,     *University of Waterloo*  
 Roy Judas,     *Community of Wekweètì*  
