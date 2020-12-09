@@ -19,7 +19,7 @@ Sherry L. Schiff,     *University of Waterloo*
 Put yourself at our field site
 - [Yellowknife](https://goo.gl/maps/SH6vVcC9jHjMgQ43A)
 - [Wekweètì](https://goo.gl/maps/MKX1kSF88ifQGm1E7)
-- [Daring Lake](https://goo.gl/maps/NaKAC724TkN9Wa3i6) 
+- [Daring Lake](https://goo.gl/maps/VCrY313rfWJjiUBQ9) 
 
 ### *ac2020_methods*
 - Detailed information of what we did
